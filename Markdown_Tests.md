@@ -29,3 +29,14 @@ print('Hello, world!')
 print('Hello, world!')
 
 ```
+
+~~~markdown
+```text
+Hello, world!
+```
+
+~~~
+
+```text
+Hello, world!
+```
