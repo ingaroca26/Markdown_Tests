@@ -35,3 +35,13 @@ https://learnpython.com/blog/
 https://www.google.com.pe/search?q=internet+speed+test
 
 https://docs.replit.com/programming-ide/working-shortcuts
+
+https://www.accuweather.com/es/pe/lima/264120/hourly-weather-forecast/264120
+
+https://www.clima.com/peru/lima/lima/por-horas
+
+https://codigooculto.com/
+
+https://dbader.org/blog/meaning-of-underscores-in-python
+
+https://replit.com/@compendiums/PythonCodes#Python_Codes.py
