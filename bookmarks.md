@@ -24,11 +24,15 @@ https://www.deepl.com/translator-mobile
 https://translate.google.com.pe/
 </pre>
 
+```
 https://www.taringa.net/+humor/recent/shouts
+```
 
+`
 https://github.com/ingaroca26/helloworld
+`
 
-https://www.radiodoblenueve.com/
+`https://www.radiodoblenueve.com/`
 
 https://realpython.com/
 
