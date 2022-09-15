@@ -10,9 +10,15 @@ https://www.google.com.pe/
 
 [`https://www.deepl.com/translator`](https://www.deepl.com/translator)
 
-https://www.deepl.com/translator-mobile
+---
 
+<code>
+https://www.deepl.com/translator-mobile
+</code>
+
+<pre>
 https://translate.google.com.pe/
+</pre>
 
 https://www.taringa.net/+humor/recent/shouts
 
