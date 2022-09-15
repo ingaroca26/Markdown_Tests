@@ -10,6 +10,10 @@ https://www.google.com.pe/
 
 [](https://www.deepl.com/translator)
 
+[](https://www.deepl.com/translator)
+
+[](https://www.deepl.com/translator)
+
 https://www.deepl.com/translator-mobile
 
 https://translate.google.com.pe/
