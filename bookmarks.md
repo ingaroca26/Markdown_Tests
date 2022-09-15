@@ -1,6 +1,6 @@
-# Bookmarksd
+# Bookmarks
 
-```
+<pre>
 
 https://www.google.com.pe/
 
@@ -10,22 +10,13 @@ https://www.youtube.com/
 
 https://m.youtube.com/
 
-```
+</pre>
 
 https://www.deepl.com/translator
 
 https://www.deepl.com/translator-mobile
 
-hjjh
-
-
 https://translate.google.com.pe/
-
-jui
-
-
-
-uuuu
 
 https://www.taringa.net/+humor/recent/shouts
 
