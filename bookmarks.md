@@ -1,16 +1,12 @@
 # Bookmarks
 
-<pre>
-
 https://www.google.com.pe/
 
-https://duckduckgo.com/
+    https://duckduckgo.com/
 
-https://www.youtube.com/
+`<https://www.youtube.com/>`
 
-https://m.youtube.com/
-
-</pre>
+<`https://m.youtube.com/`>
 
 https://www.deepl.com/translator
 
