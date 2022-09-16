@@ -12,7 +12,13 @@ https://www.google.com.pe/
 
 <`https://m.youtube.com/`>
 
+---
+
 [`https://www.deepl.com/translator`](https://www.deepl.com/translator)
+
+---
+
+[`https://ed.team`]
 
 ---
 
