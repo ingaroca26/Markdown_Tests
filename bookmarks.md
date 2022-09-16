@@ -46,7 +46,7 @@ https://realpython.com/
 
 https://gist.github.com/saulnotes/28cab965b6e9548a8aba055169ac49a5#file-sounds-md
 
-<p style="font-family: Papyrus">
+<p style="font-family: monospace">
 https://ed.team/comunidad
 </p>
 
