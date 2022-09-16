@@ -40,7 +40,9 @@ https://github.com/ingaroca26/helloworld
 
 `https://www.radiodoblenueve.com/`
 
+<kbd>
 https://realpython.com/
+</kbd>
 
 https://gist.github.com/saulnotes/28cab965b6e9548a8aba055169ac49a5#file-sounds-md
 
