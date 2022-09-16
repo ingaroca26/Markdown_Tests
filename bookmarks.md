@@ -18,7 +18,7 @@ https://www.google.com.pe/
 
 ---
 
-[`https://ed.team`]
+[`https://ed.team`](https://ed.team)
 
 ---
 
