@@ -1,22 +1,22 @@
-────────────────────────────────
+────────────────────────────────────
 Python Notes
-────────────────────────────────
+────────────────────────────────────
 data: None = None
 print(data)
 
 None
-────────────────────────────────
+────────────────────────────────────
 information: None = type(None)()
 print(information)
 
 None
-────────────────────────────────
+────────────────────────────────────
 details: None = None
 details_type = type(details)
 print(details_type)
 
 <class 'NoneType'>
-────────────────────────────────
+────────────────────────────────────
 import platform
 
 
@@ -24,7 +24,7 @@ python_version = platform.python_version()
 print(python_version)
 
 3.11.1
-────────────────────────────────
+────────────────────────────────────
 import calendar
 
 leap: bool = calendar.isleap(2022)
@@ -32,4 +32,4 @@ f_leap: str = f'2022 is leap: {leap}'
 print(f_leap)
 
 2022 is leap: False
-────────────────────────────────
+────────────────────────────────────
