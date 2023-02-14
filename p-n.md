@@ -9,3 +9,13 @@ print(data)
 ~~~text
 None
 ~~~
+
+~~~python
+information: None = type(None)()
+print(information)
+
+~~~
+
+~~~text
+None
+~~~
