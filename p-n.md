@@ -8,6 +8,8 @@ print(data)
 
 ~~~
 
+## `None` Constructor
+
 ~~~text
 None
 ~~~
