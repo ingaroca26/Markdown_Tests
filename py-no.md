@@ -4,7 +4,6 @@
 
 ~~~sh
 python --version
-
 ~~~
 
 ~~~text
@@ -24,14 +23,12 @@ Projects | myproject, project
 
 ~~~python
 # A comment
-
 ~~~
 
 <br>
 
 ~~~python
 print('Hello, world!')
-
 ~~~
 
 ~~~text
@@ -43,7 +40,6 @@ Hello, world!
 ~~~python
 hello_world: str = 'Hello world!'
 print(hello_world)
-
 ~~~
 
 ~~~text
@@ -55,7 +51,6 @@ Hello, world!
 ~~~python
 data: None = None
 print(data)
-
 ~~~
 
 ~~~text
@@ -67,7 +62,6 @@ None
 ~~~python
 information: None = type(None)()
 print(information)
-
 ~~~
 
 ~~~text
@@ -80,7 +74,6 @@ None
 details: None = None
 details_type = type(details)
 print(details_type)
-
 ~~~
 
 ~~~text
@@ -92,7 +85,6 @@ print(details_type)
 ~~~python
 available: bool = False
 print(available)
-
 ~~~
 
 ~~~text
@@ -104,7 +96,6 @@ False
 ~~~python
 accessible: bool = bool()
 print(accessible)
-
 ~~~
 
 ~~~text
