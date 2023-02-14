@@ -1,6 +1,8 @@
 # Python Notes
 
-## `None` Default Value
+## `None`
+
+### Default Value
 
 ~~~python
 data: None = None
@@ -12,7 +14,7 @@ print(data)
 None
 ~~~
 
-## `None` Constructor
+### Constructor
 
 ~~~python
 information: None = type(None)()
@@ -24,7 +26,7 @@ print(information)
 None
 ~~~
 
-## `None` `type()`
+### `type()`
 
 ~~~python
 details: None = None
