@@ -22,6 +22,8 @@ print(information)
 None
 ~~~
 
+<br>
+
 ~~~python
 details: None = None
 details_type = type(details)
@@ -33,6 +35,8 @@ print(details_type)
 <class 'NoneType'>
 ~~~
 
+<br>
+
 ~~~python
 available: bool = False
 print(available)
@@ -42,6 +46,8 @@ print(available)
 ~~~text
 False
 ~~~
+
+<br>
 
 ~~~python
 accessible: bool = bool()
