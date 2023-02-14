@@ -1,4 +1,5 @@
 # Python Notes
+
 <br>
 ~~~sh
 python --version
@@ -6,6 +7,7 @@ python --version
 ~~~text
 3.11.1
 ~~~
+
 <br>
 Types | Examples
 --- | ---
@@ -13,10 +15,12 @@ Variables | my_variable, variable
 Modules | my_module, module
 Packages | mypackage, package
 Projects | myproject, project
+
 <br>
 ~~~python
 # A comment
 ~~~
+
 <br>
 ~~~python
 print('Hello, world!')
@@ -24,6 +28,7 @@ print('Hello, world!')
 ~~~text
 Hello, world!
 ~~~
+
 <br>
 ~~~python
 hello_world: str = 'Hello world!'
@@ -32,6 +37,7 @@ print(hello_world)
 ~~~text
 Hello, world!
 ~~~
+
 <br>
 ~~~python
 data: None = None
