@@ -23,6 +23,13 @@ Projects | myproject, project
 <br>
 
 ~~~python
+# A comment
+
+~~~
+
+<br>
+
+~~~python
 data: None = None
 print(data)
 
