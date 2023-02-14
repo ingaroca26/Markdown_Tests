@@ -1,5 +1,4 @@
 # Python Notes
-
 <br>
 
 ~~~sh
@@ -8,7 +7,6 @@ python --version
 ~~~text
 3.11.1
 ~~~
-
 <br>
 
 Types | Examples
@@ -17,13 +15,11 @@ Variables | my_variable, variable
 Modules | my_module, module
 Packages | mypackage, package
 Projects | myproject, project
-
 <br>
 
 ~~~python
 # A comment
 ~~~
-
 <br>
 
 ~~~python
@@ -32,7 +28,6 @@ print('Hello, world!')
 ~~~text
 Hello, world!
 ~~~
-
 <br>
 
 ~~~python
@@ -42,7 +37,6 @@ print(hello_world)
 ~~~text
 Hello, world!
 ~~~
-
 <br>
 
 ~~~python
@@ -52,7 +46,6 @@ print(data)
 ~~~text
 None
 ~~~
-
 <br>
 
 ~~~python
@@ -62,7 +55,6 @@ print(information)
 ~~~text
 None
 ~~~
-
 <br>
 
 ~~~python
@@ -73,7 +65,6 @@ print(details_type)
 ~~~text
 <class 'NoneType'>
 ~~~
-
 <br>
 
 ~~~python
@@ -83,7 +74,6 @@ print(available)
 ~~~text
 False
 ~~~
-
 <br>
 
 ~~~python
@@ -93,3 +83,4 @@ print(accessible)
 ~~~text
 False
 ~~~
+<br>
