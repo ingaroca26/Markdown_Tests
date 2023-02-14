@@ -8,11 +8,11 @@ print(data)
 
 ~~~
 
-## `None` Constructor
-
 ~~~text
 None
 ~~~
+
+## `None` Constructor
 
 ~~~python
 information: None = type(None)()
