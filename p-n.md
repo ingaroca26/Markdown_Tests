@@ -1,5 +1,7 @@
 # Python Notes
 
+## `None` Default Value
+
 ~~~python
 data: None = None
 print(data)
