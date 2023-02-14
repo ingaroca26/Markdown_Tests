@@ -30,6 +30,17 @@ Projects | myproject, project
 <br>
 
 ~~~python
+print('Hello, world!')
+
+~~~
+
+~~~text
+Hello, world!
+~~~
+
+<br>
+
+~~~python
 data: None = None
 print(data)
 
