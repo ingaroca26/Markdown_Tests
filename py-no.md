@@ -3,6 +3,9 @@
 Types | Examples
 --- | ---
 Variables | my_variable, variable
+Modules | my_module, module
+Packages | mypackage, package
+Projects | myproject, project
 
 <br>
 
