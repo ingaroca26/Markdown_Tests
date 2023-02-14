@@ -36,3 +36,7 @@ print(details_type)
 ~~~text
 <class 'NoneType'>
 ~~~
+
+## `bool` Default Value
+
+
