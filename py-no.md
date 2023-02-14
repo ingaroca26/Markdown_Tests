@@ -1,5 +1,7 @@
 # Python Notes
 
+<br>
+
 Types | Examples
 --- | ---
 Variables | my_variable, variable
