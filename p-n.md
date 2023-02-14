@@ -23,3 +23,16 @@ print(information)
 ~~~text
 None
 ~~~
+
+## `None` `type()`
+
+~~~python
+details: None = None
+details_type = type(details)
+print(details_type)
+
+~~~
+
+~~~text
+<class 'NoneType'>
+~~~
