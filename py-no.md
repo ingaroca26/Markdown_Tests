@@ -1,6 +1,7 @@
 # Python Notes
 
 <br>
+
 ~~~sh
 python --version
 ~~~
@@ -9,6 +10,7 @@ python --version
 ~~~
 
 <br>
+
 Types | Examples
 --- | ---
 Variables | my_variable, variable
@@ -17,11 +19,13 @@ Packages | mypackage, package
 Projects | myproject, project
 
 <br>
+
 ~~~python
 # A comment
 ~~~
 
 <br>
+
 ~~~python
 print('Hello, world!')
 ~~~
@@ -30,6 +34,7 @@ Hello, world!
 ~~~
 
 <br>
+
 ~~~python
 hello_world: str = 'Hello world!'
 print(hello_world)
@@ -39,6 +44,7 @@ Hello, world!
 ~~~
 
 <br>
+
 ~~~python
 data: None = None
 print(data)
@@ -46,7 +52,9 @@ print(data)
 ~~~text
 None
 ~~~
+
 <br>
+
 ~~~python
 information: None = type(None)()
 print(information)
@@ -54,7 +62,9 @@ print(information)
 ~~~text
 None
 ~~~
+
 <br>
+
 ~~~python
 details: None = None
 details_type = type(details)
@@ -63,7 +73,9 @@ print(details_type)
 ~~~text
 <class 'NoneType'>
 ~~~
+
 <br>
+
 ~~~python
 available: bool = False
 print(available)
@@ -71,7 +83,9 @@ print(available)
 ~~~text
 False
 ~~~
+
 <br>
+
 ~~~python
 accessible: bool = bool()
 print(accessible)
