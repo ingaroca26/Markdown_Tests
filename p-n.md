@@ -1,2 +1,10 @@
 # Python Notes
 
+~~~python
+
+
+~~~
+
+~~~text
+
+~~~
