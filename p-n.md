@@ -39,4 +39,24 @@ print(details_type)
 
 ## `bool` Default Value
 
+~~~python
+available: bool = False
+print(available)
 
+~~~
+
+~~~text
+False
+~~~
+
+## `bool` Constructor
+
+~~~python
+accessible: bool = bool()
+print(accessible)
+
+~~~
+
+~~~text
+False
+~~~
