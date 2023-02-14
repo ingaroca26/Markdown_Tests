@@ -10,6 +10,8 @@ print(data)
 None
 ~~~
 
+<br>
+
 ~~~python
 information: None = type(None)()
 print(information)
