@@ -41,6 +41,18 @@ Hello, world!
 <br>
 
 ~~~python
+hello_world: str = 'Hello world!'
+print(hello_world)
+
+~~~
+
+~~~text
+Hello, world!
+~~~
+
+<br>
+
+~~~python
 data: None = None
 print(data)
 
