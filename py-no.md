@@ -2,6 +2,17 @@
 
 <br>
 
+~~~sh
+python --version
+
+~~~
+
+~~~text
+3.11.1
+~~~
+
+<br>
+
 Types | Examples
 --- | ---
 Variables | my_variable, variable
