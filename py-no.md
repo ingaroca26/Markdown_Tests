@@ -1,5 +1,11 @@
 # Python Notes
 
+Types | Examples
+--- | ---
+Variables | my_variable, variable
+
+<br>
+
 ~~~python
 data: None = None
 print(data)
