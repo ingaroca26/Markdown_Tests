@@ -35,10 +35,10 @@ Hello, world!
 <br>
 
 ~~~sh
-`helloworld`/
-    `helloworld`/
-        `__init__.py`
-        `hello_world.py`
+helloworld/
+    helloworld/
+        __init__.py
+        hello_world.py
 ~~~
 <br>
 
