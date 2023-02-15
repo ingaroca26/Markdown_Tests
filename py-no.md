@@ -24,21 +24,20 @@ Projects | myproject, project
 ~~~
 <br>
 
-`hello_world.py`
+~~~sh
+helloworld/
+    helloworld/
+        __init__.py
+        hello_world.py
+~~~
+<br>
+
 ~~~python
 print('Hello, world!')
 
 ~~~
 ~~~text
 Hello, world!
-~~~
-<br>
-
-~~~sh
-helloworld/
-    helloworld/
-        __init__.py
-        hello_world.py
 ~~~
 <br>
 
