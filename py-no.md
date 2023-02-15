@@ -26,6 +26,9 @@ Projects | myproject, project
 
 ~~~text
 helloworld/
+    .gitignore
+    README.md
+    venv/
     helloworld/
         __init__.py
         hello_world.py
