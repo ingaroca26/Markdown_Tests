@@ -24,7 +24,7 @@ Projects | myproject, project
 ~~~
 <br>
 
-~~~sh
+~~~text
 helloworld/
     helloworld/
         __init__.py
