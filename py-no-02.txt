@@ -12,8 +12,6 @@ python-3.11.1-amd64.exe
 
 
 ~~~~~~~~~~~~~~~~~
-python_version.sh
-~~~~~~~~~~~~~~~~~
 python --version
 
 ~~~~~~~~~~~~~~~~~
@@ -35,8 +33,6 @@ hello-world/
 
 
 ~~~~~~~~~~~~~~~~~~~~~~
-hello_world.py
-~~~~~~~~~~~~~~~~~~~~~~
 print('Hello, world!')
 
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -44,8 +40,6 @@ Hello, world!
 ~~~~~~~~~~~~~~~~~~~~~~
 
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-hello_world.py
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 hello_world: str = 'Hello world!'
 print(hello_world)
