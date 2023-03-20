@@ -4,6 +4,8 @@ Python Notes
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Download Link
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 https://www.python.org/downloads/windows/
 python-3.11.1-amd64.exe
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -19,6 +21,7 @@ python --version
 
 ~~~~~~~~~~~~~~~~~~~~~~
 Project Structure
+~~~~~~~~~~~~~~~~~~~~~~
 hello-world/
     .gitignore
     README.md
