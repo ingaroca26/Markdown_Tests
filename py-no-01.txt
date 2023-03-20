@@ -1,0 +1,70 @@
+Python Notes
+
+
+
+https://www.python.org/downloads/windows/
+
+
+
+python --version
+
+3.11.1
+
+
+
+hello-world/
+    .gitignore
+    README.md
+    venv/
+    hello_world/
+        __init__.py
+        hello_world.py
+
+
+
+print('Hello, world!')
+
+Hello, world!
+
+
+
+hello_world: str = 'Hello world!'
+print(hello_world)
+
+Hello, world!
+
+
+
+data: None = None
+print(data)
+
+None
+
+
+
+information: None = type(None)()
+print(information)
+
+None
+
+
+
+details: None = None
+details_type = type(details)
+print(details_type)
+
+<class 'NoneType'>
+
+
+
+import platform
+
+
+python_version: str = platform.python_version()
+f_python_version: str = f'Python version: {python_version}'
+print(f_python_version)
+
+Python version: 3.11.1
+
+
+
